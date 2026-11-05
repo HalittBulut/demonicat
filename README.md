@@ -34,8 +34,8 @@ Game jam sürümü tamamlandı ve yayınlandı.
 
 | Kim | Ne yaptı |
 |---|---|
-| **Halit Bulut** | Oynanış ve Godot tarafı: proje kurulumu, FPS hareket sistemi, silah mekanikleri, yaratık ve Kömür davranış kodu, bölüm kurulumu |
-| **Furkan** | Hikâye ve asset tarafı: hikâye ve akış, Blender'da tüm modeller ve materyaller, ses ve arayüz |
+| **Halit Bulut** | Godot projesinin kurulumu, FPS hareket, silah ve etkileşim sistemi, Sonsuz Koridor ve Lanetli Mutfak bölümleri |
+| **Furkan** | Hikâye ve akış, Blender modelleri ve materyaller, diğer bölümler, Kömür davranışları ve boss savaşı, menüler ve ses |
 
 ## Teknik
 
